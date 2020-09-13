@@ -286,6 +286,10 @@ h1,h2,h3,h4,h5,h6
   color: #C14235;
 }
 @media (max-width: 600px) {
+  .p-c
+  {
+    padding: 0 50px;
+  }
   body
   {
     font-size: 0.9rem;
